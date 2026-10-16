@@ -55,7 +55,7 @@ Note that `ScreenSaver/Source/Models/API/APISecrets.swift` ships with a blank Op
 
 Weather overlays are provided thanks to [Openweather](https://openweathermap.org) who has offerred free support for Aerial for *many* years now ! Many thanks to them !
 
-<a href="https://openweathermap.org"><img src="ScreenSaver/Resources/openweather_logo.png" alt="OpenWeather" width="200"></a>
+<a href="https://openweathermap.org"><img src="Aerial/Resources/Assets.xcassets/OpenWeatherLogo.imageset/ow_logo.svg" alt="OpenWeather" width="200"></a>
 
 Aerial relies on a few great open source projects, you should check them out : 
 - [Sparkle](https://sparkle-project.org) for auto-updates
@@ -66,6 +66,8 @@ Aerial relies on a few great open source projects, you should check them out :
 - [PaperSaver](https://github.com/AerialScreensaver/PaperSaver) by Guillaume Louel to enable the app extensions
 
 Thanks to those maintainers and their contributors !
+
+And finally, to everyone who has used, supported or contributed to Aerial, thanks for your continued support over those long years! 
 
 ## Contributing
 
